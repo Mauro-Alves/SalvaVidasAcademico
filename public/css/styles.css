@@ -1,0 +1,9 @@
+.fundo {
+    background-image: url("/imagem/fundo2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; /* Centraliza a imagem */
+    height: 100vh; /* Define a altura como 100% da viewport */
+    
+}
+
